@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "otr-data": {
+      "type": "http",
+      "url": "${OTR_DATA_ACCESS_URL:-https://otrsystems.com/mcp}"
+    }
+  }
+}

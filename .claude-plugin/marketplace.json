@@ -1,0 +1,19 @@
+{
+  "name": "otr-data-access",
+  "owner": {
+    "name": "OTR Systems LLC"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for OTR Systems owners and staff.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "otr-data",
+      "source": "./",
+      "description": "Read-only live OTR data in Claude Code: MCP connection with OAuth sign-in plus the data-analysis skill.",
+      "version": "1.0.0",
+      "category": "analytics"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "otr-data",
+  "version": "1.0.0",
+  "description": "Read-only access to the live OTR Systems database for analysis: connects Claude Code to the OTR app's Data Access MCP server (OAuth sign-in through your OTR account) and teaches it how the recruiting data is created and used.",
+  "author": {
+    "name": "OTR Systems LLC"
+  },
+  "keywords": ["otr", "recruiting", "mcp", "database", "analytics"]
+}
